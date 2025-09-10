@@ -12,6 +12,7 @@ Retrieval-Augmented Generation: Given a user query, relevant article content is 
 
 User Interface with Streamlit: The app provides a streamlined interface for URL entry, question input, and display of both generated answers and referenced sources.
 
+ 
 ## Usage:
 Environment Setup:    
 Requires Python and the following packages: streamlit, langchain, faiss-cpu, openai, sentence-transformers, dotenv, and their dependencies.      
